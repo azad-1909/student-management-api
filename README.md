@@ -149,8 +149,7 @@ Run Instructions
 
 Clone the repository:
 
-git clone https://github.com/YourUsername/your-repo-name.git
-cd your-repo-name
+git clonegit clone [https://github.com/azad-1909/student-management-api.git](https://github.com/azad-1909/student-management-api.git)
 
 
 Package the Application:
