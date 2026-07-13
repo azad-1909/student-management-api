@@ -149,7 +149,7 @@ Run Instructions
 
 Clone the repository:
 
-git clonegit clone [https://github.com/azad-1909/student-management-api.git](https://github.com/azad-1909/student-management-api.git)
+git clonegit clone azad-1909/student-management-api
 
 
 Package the Application:
@@ -176,11 +176,5 @@ docker run -p 8084:8084 student-api-backend
 <img width="1919" height="1079" alt="Screenshot 2026-06-08 201714" src="https://github.com/user-attachments/assets/01099e4d-c89b-4cc5-84ae-46e56ea53f06" />
 <img width="1918" height="1079" alt="Screenshot 2026-06-08 201744" src="https://github.com/user-attachments/assets/1330f485-91a8-4e0d-9721-16478703054d" />
 <img width="1919" height="1079" alt="Screenshot 2026-06-08 201802" src="https://github.com/user-attachments/assets/a73c03da-535e-4d49-9c7a-fe0222004d4f" />
-
-
-
-
-   
-
 
 Developed by Chandra Shekhar Azad
